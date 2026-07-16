@@ -1,4 +1,4 @@
-import Layout from "./components/layout/Layout";
+import Layout from "./components/layout/Layout.jsx";
 import Navbar from "./components/layout/Navbar";
 import Hero from "./components/layout/Hero";
 import ProductGrid from "./components/product/ProductGrid";
